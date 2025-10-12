@@ -1,0 +1,14 @@
+body{
+    background-color:rgba(3, 3, 37, 0.877);
+    color:snow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+
+h2{
+    text-shadow: 1px 1px whitesmoke
+}
+
+p{
+    font-weight: bold;
+}
