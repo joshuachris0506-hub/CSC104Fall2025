@@ -1,0 +1,35 @@
+body{
+	background: -webkit-linear-gradient(right, #0371b1, #0392b63f, #04aad39a);
+	background: -moz-linear-gradient(right, #04aad39a, #0392b63f, #04aad39a);
+	background: -o-linear-gradient(right, #04aad39a, #0392b63f, #04aad39a);
+	background: linear-gradient(to right, #04aad39a, #0392b63f, #04aad39a);
+	color: #04aad39a;
+}
+
+h1{
+	color: #8e049bbe;
+	text-shadow:0 0 2px aqua;
+	font-family: times new roman, arial;
+}
+
+h2{
+	color: #770471;
+	text-shadow:0 0 2px rgb(204, 134, 4);
+	font-family: times new roman, arial;
+}
+
+h3{
+	color: #770471;
+	text-shadow:0 0 2px rgb(204, 134, 4);
+	font-family: times new roman, arial;
+}
+
+p{
+	color: #770471;
+	text-shadow:0 0 2px rgb(204, 134, 4);
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: rgb(204, 134, 4);
+}
